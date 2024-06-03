@@ -1,6 +1,6 @@
 # Machine Learning for Supply Chain
 
-Welcome to the ML4SupplyChain repository, where we explore and develop machine-learning solutions to optimize and innovate in the field of supply chain management.
+Welcome to the ML4SupplyChain repository, where we explore and develop machine-learning solutions to optimize and innovate in the field of Supply Chain Management.
 
 ## Overview
 
